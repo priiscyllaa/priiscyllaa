@@ -50,26 +50,17 @@ Atualmente estou participando do treinamento Explorer da Rocketseat para me aper
 
 ### Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
-![GoogleColab](https://img.shields.io/badge/-GoogleColab-0D1117?style=for-the-badge&logo=googlecolab&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![WordPress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&logoColor=007ACC&labelColor=0D1117)&nbsp;
 
-### Outros conhecimentos:
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Notion](https://img.shields.io/badge/-notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
   
 ### Estudando:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![React.Js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 + Estudando desenvolvimento web na Instituição Proz Educação
 
- 
-  ![Snake animation](https://github.com/fernandoalvesrufino/fernandoalvesrufino/blob/output/github-contribution-grid-snake.svg)
 
 
 <div align="center">
