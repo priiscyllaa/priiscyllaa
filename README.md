@@ -31,7 +31,7 @@ Eu sou a Priscilla!
 SOBRE MIM
 </h3>
 
-Sou uma especialista em diagnóstico e manutenção de carros de luxo com 7 anos de experiência na área. Atualmente, estou estudando desenvolvimento web focando em front-end. Tenho focado meus estudos em HTML, CSS e JavaScript, bem como no framework React.js, e estou sempre buscando aprimorar minhas habilidades através de projetos pessoais e participação em comunidades de desenvolvimento. Compartilho meus conhecimentos e projetos aqui no GitHub e no LinkedIn.
+Estou estudando desenvolvimento web focando em front-end. Tenho focado meus estudos em HTML, CSS e JavaScript, bem como no framework React.js, e estou sempre buscando aprimorar minhas habilidades através de projetos pessoais e participação em comunidades de desenvolvimento. Compartilho meus conhecimentos e projetos aqui no GitHub e no LinkedIn.
 
 Atualmente estou participando do treinamento Explorer da Rocketseat para me aperfeiçoar nas tecnologias que utilizo. Acredito que minha experiência prévia em resolução de problemas realizando diagnósticos e trabalho em equipe serão valiosos na construção de projetos como desenvolvedor front-end. Estou animado com as possibilidades e oportunidades que a tecnologia oferece e espero contribuir muito em projetos futuros.
 
